@@ -47,5 +47,5 @@ const productos = new ProductManager(
     })),
 
     console.log(productos.getProducts()),
-    console.log(productos.getProductById(3)),
+    console.log(productos.getProductById(1)),
 )
